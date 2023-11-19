@@ -1,11 +1,11 @@
 # Therapy-Light
-Therapy light inspired by Matthias Wandel https://www.youtube.com/watch?v=a_hX2JcwHBE
+Therapy light inspired by Matthias Wandel <br>https://www.youtube.com/watch?v=a_hX2JcwHBE
 
 
-Parts Used:
+Parts Used:<br>
 ESP32S2 Mini: https://www.aliexpress.us/item/3256804785659778.html <br>
-LED Light: https://www.aliexpress.us/item/3256804619042819.html
-RF Reciever: https://www.aliexpress.us/item/2251832730478245.html
+LED Light: https://www.aliexpress.us/item/3256804619042819.html<br>
+RF Reciever: https://www.aliexpress.us/item/2251832730478245.html<br>
 RF Transmitter: https://www.aliexpress.us/item/3256805865518882.html
 
 This therapy light has a wifi Accesspoint to configure the color and durations
