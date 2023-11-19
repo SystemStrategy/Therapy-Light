@@ -3,6 +3,7 @@ Therapy light inspired by Matthias Wandel
 
 https://www.youtube.com/watch?v=a_hX2JcwHBE
 
+![alt text](https://github.com/SystemStrategy/Therapy-Light/blob/main/Guts.png)
 
 Parts Used:
 
