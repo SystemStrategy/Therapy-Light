@@ -3,7 +3,7 @@ Therapy light inspired by Matthias Wandel https://www.youtube.com/watch?v=a_hX2J
 
 
 Parts Used:
-ESP32S2 Mini: https://www.aliexpress.us/item/3256804785659778.html
+ESP32S2 Mini: https://www.aliexpress.us/item/3256804785659778.html <br>
 LED Light: https://www.aliexpress.us/item/3256804619042819.html
 RF Reciever: https://www.aliexpress.us/item/2251832730478245.html
 RF Transmitter: https://www.aliexpress.us/item/3256805865518882.html
