@@ -1,0 +1,17 @@
+Therapy light
+
+Description:
+When powered you should see the light blink twice
+Then when you click the button the light will begin the pre-programmed cycle and fade though the four colors based on time
+Color transitions occur at:
+  Half way point
+  when 5 minutes remain
+  when time is over (light will blink between off and the chosen color)
+
+
+Change the colors and duration
+  - Power up the light
+  - Connect to the "Therapy Light Config" wifi connection
+  - It should load into the webpage, but if not open your browser and connect to http://192.168.2.1
+  - Change the colors on webpage and duration 
+  - Enter the password and submit
